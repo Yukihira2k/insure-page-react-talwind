@@ -17,6 +17,7 @@ const data = [
         "description":"Our plans aren't full of conditions and clauses to prevent payouts. We make sure you're covered when you need it."
         
     },
+    
 ]
 
 export default data;
